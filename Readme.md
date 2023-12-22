@@ -44,9 +44,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-<br>
 **Or refer to notebooks for prerun code.**
-<br>
 
 ## Group Members
 
