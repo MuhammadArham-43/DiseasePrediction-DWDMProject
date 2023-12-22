@@ -45,7 +45,8 @@ python main.py
 ```
 
 <br>
-`Or refer to notebooks for prerun code.`
+**Or refer to notebooks for prerun code.**
+<br>
 
 ## Group Members
 
